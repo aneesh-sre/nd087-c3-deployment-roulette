@@ -1,0 +1,5 @@
+Implement a canary deployment and deploy an ephemeral container to debug successful deployments
+
+Implement a blue-green deployment.
+
+Create weighted DNS records to round-robin requests for blue-green deployments
